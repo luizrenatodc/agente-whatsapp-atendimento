@@ -4,6 +4,12 @@ Agente que responde clientes no WhatsApp, resolve as perguntas frequentes e pass
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js_24-339933?logo=nodedotjs&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?logo=whatsapp&logoColor=white)
 
+## Veja funcionando
+
+![Testes passando e uma conversa real pelo webhook: depois da transferência, o agente fica em silêncio.](docs/conversa.png)
+
+*Testes passando e uma conversa real pelo webhook: depois da transferência, o agente fica em silêncio.*
+
 ## O problema
 
 Pequenas empresas recebem as mesmas perguntas o dia inteiro: horário, preço, como agendar. Um robô que só responde por menu irrita o cliente, e um robô que nunca desiste de responder é pior ainda. O atendimento precisa saber a hora de chamar um humano.
